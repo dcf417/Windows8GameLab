@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DEV-LAPTOP</Machine>
+    <WindowsUser>OmnyxLLC</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Ammo\rock_ammo.png">
+      <PackagePath>images\Ammo\rock_ammo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Backgrounds\blank.png">
+      <PackagePath>images\Backgrounds\blank.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Backgrounds\cloud1.png">
+      <PackagePath>images\Backgrounds\cloud1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Backgrounds\cloud2.png">
+      <PackagePath>images\Backgrounds\cloud2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Backgrounds\defeat.png">
+      <PackagePath>images\Backgrounds\defeat.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Backgrounds\gameplay_screen.png">
+      <PackagePath>images\Backgrounds\gameplay_screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Backgrounds\instructions.png">
+      <PackagePath>images\Backgrounds\instructions.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Backgrounds\mountain.png">
+      <PackagePath>images\Backgrounds\mountain.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Backgrounds\sky.png">
+      <PackagePath>images\Backgrounds\sky.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Backgrounds\title_screen.png">
+      <PackagePath>images\Backgrounds\title_screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Backgrounds\title_screen_150x150.png">
+      <PackagePath>images\Backgrounds\title_screen_150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Backgrounds\title_screen_30x30.png">
+      <PackagePath>images\Backgrounds\title_screen_30x30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Backgrounds\title_screen_310x150.png">
+      <PackagePath>images\Backgrounds\title_screen_310x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Backgrounds\title_screen_620x300.png">
+      <PackagePath>images\Backgrounds\title_screen_620x300.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Backgrounds\victory.png">
+      <PackagePath>images\Backgrounds\victory.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Catapults\Blue\blueDestroyed\blueCatapult_destroyed.png">
+      <PackagePath>images\Catapults\Blue\blueDestroyed\blueCatapult_destroyed.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Catapults\Blue\blueFire\blueCatapult_fire.png">
+      <PackagePath>images\Catapults\Blue\blueFire\blueCatapult_fire.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Catapults\Blue\blueIdle\blueIdle.png">
+      <PackagePath>images\Catapults\Blue\blueIdle\blueIdle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Catapults\Blue\bluePullback\blueCatapult_Pullback.png">
+      <PackagePath>images\Catapults\Blue\bluePullback\blueCatapult_Pullback.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Catapults\Fire_Miss\fire_miss.png">
+      <PackagePath>images\Catapults\Fire_Miss\fire_miss.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Catapults\Hit_Smoke\smoke.png">
+      <PackagePath>images\Catapults\Hit_Smoke\smoke.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Catapults\Red\redDestroyed\redCatapult_destroyed.png">
+      <PackagePath>images\Catapults\Red\redDestroyed\redCatapult_destroyed.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Catapults\Red\redFire\redCatapult_fire.png">
+      <PackagePath>images\Catapults\Red\redFire\redCatapult_fire.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Catapults\Red\redIdle\redIdle.png">
+      <PackagePath>images\Catapults\Red\redIdle\redIdle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Catapults\Red\redPullback\redCatapult_Pullback.png">
+      <PackagePath>images\Catapults\Red\redPullback\redCatapult_Pullback.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\HUD\ammoType.png">
+      <PackagePath>images\HUD\ammoType.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\HUD\Arrow.png">
+      <PackagePath>images\HUD\Arrow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\HUD\hudBackground.png">
+      <PackagePath>images\HUD\hudBackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\HUD\windArrow.png">
+      <PackagePath>images\HUD\windArrow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\images\Catapults\AnimationsDef.xml">
+      <PackagePath>images\Catapults\AnimationsDef.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\js\CreateJS\easeljs-0.7.0.min.js">
+      <PackagePath>js\CreateJS\easeljs-0.7.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\js\CreateJS\preloadjs-0.4.0.min.js">
+      <PackagePath>js\CreateJS\preloadjs-0.4.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\sounds\BoulderHit.wav">
+      <PackagePath>sounds\BoulderHit.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\sounds\CatapultExplosion.wav">
+      <PackagePath>sounds\CatapultExplosion.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\sounds\CatapultFire.wav">
+      <PackagePath>sounds\CatapultFire.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\sounds\Lose.wav">
+      <PackagePath>sounds\Lose.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\sounds\RopeStretch.wav">
+      <PackagePath>sounds\RopeStretch.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\sounds\Win.wav">
+      <PackagePath>sounds\Win.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

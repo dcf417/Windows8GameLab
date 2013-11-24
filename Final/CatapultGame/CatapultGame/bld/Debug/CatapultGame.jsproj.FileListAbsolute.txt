@@ -1,0 +1,9 @@
+c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\bin\Debug\resources.pri
+c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\bin\Debug\AppxManifest.xml
+c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\bin\Debug\CatapultGame.build.appxrecipe
+c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\bld\Debug\priconfig.xml
+c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\bld\Debug\layout.resfiles
+c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\bld\Debug\resources.resfiles
+c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\bld\Debug\pri.resfiles
+c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\bld\Debug\LanguageQualifiers.txt
+c:\users\omnyxllc\documents\visual studio 2012\Projects\CatapultGame\CatapultGame\bld\Debug\ProjectArchitectures.txt
